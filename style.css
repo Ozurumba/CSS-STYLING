@@ -1,0 +1,57 @@
+
+.head{
+  color:indigo;
+}
+
+.wrapper {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    
+}
+.red-box {
+
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    
+    
+      
+}
+
+.green-box {
+
+background-color: rgb(235,51,35);
+width: 100px;
+height: 100px;
+position: absolute;
+ top: 150px;
+left: 150px; 
+
+}
+
+.brown-box {
+
+background-color: yellow;
+width: 100px;
+height: 100px;
+position: absolute;
+top: 200px;
+left: 200px; 
+
+
+}
+
+.orange-box {
+
+background-color: red;
+width: 100px;
+height: 100px;
+position: absolute;
+top: 250px;
+left: 250px;
+
+}
